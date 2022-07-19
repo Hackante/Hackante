@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Hackante. I mostly develop Discord bots ~~altough I often don't finish them~~. And I am currently working in a small team at this organisation: [wwosimulation](https://github.com/wwosimulation). Currently I try to switch my projects from JavaScript to TypeScript. 
+
+You can contact me at any time via Discord: @Hackante#1482.
 
 <!--
 **Hackante/Hackante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
